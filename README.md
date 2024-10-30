@@ -37,8 +37,8 @@
 
 - 🔭 I’m currently working on [mineral-flow-system](https://github.com/pashioya/mineral-flow-system)
 
-- 🌱 I’m currently learning **Nextjs,**
-(
+- 🌱 I’m currently learning **Nextjs**
+
 ###
 
 <h3 align="left">Languages and Tools:</h3>
