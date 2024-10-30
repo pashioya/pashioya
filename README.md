@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pashioya&" alt="pashioya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pashioya&theme=dark" alt="pashioya" /></p>
 </div>
 
 ###
