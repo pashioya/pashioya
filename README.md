@@ -18,7 +18,6 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pashioya&theme=dark" alt="pashioya" /></p>
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=pashioya)](https://git.io/streak-stats)</p>
 </div>
 
 ###
