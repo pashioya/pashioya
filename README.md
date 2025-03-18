@@ -35,7 +35,7 @@
 ###
 
 
-- I’m currently working on [mineral-flow-system](https://github.com/pashioya/mineral-flow-system),[mineral-flow-system-frontend](https://github.com/pashioya/mineral-flow-system-frontend)
+- I’m currently working on home server services. 
 
 - I’m currently learning **Nextjs**, **TurboRepo**, **Flutter**, **SwiftUI**
           
