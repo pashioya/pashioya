@@ -15,10 +15,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/96543015?v=4"  />
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paul-ashioya-1b1023153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-ashioya-1b1023153" height="30" width="40" /></a>
