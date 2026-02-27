@@ -18,4 +18,4 @@ about me:
 	- Software Developer
 
 
- 
+ Personal account only, work related commits on bitbucked
